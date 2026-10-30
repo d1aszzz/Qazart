@@ -1,0 +1,9 @@
+{
+  "name": "qazart",
+  "version": "1.0.0",
+  "description": "Qazart — қазақ тілін көтеретін AI платформасының прототипі (Zere AI, Gemini)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
